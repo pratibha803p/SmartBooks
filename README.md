@@ -103,3 +103,7 @@ smartbook/
 - **Type**: Console Application
 - **Version**: 1.0
 - **Status**: Active Development
+---
+Your output should look like this:
+
+<img width="1280" height="687" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/2207baf6-37b5-40c8-9ae7-37cd1a240347" />
